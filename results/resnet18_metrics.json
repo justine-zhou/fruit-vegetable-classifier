@@ -1,0 +1,10 @@
+{
+  "model": "resnet18",
+  "best_val_accuracy": 0.9344729344729344,
+  "test_loss": 0.2720232194595682,
+  "test_accuracy": 0.935933147632312,
+  "report_accuracy": 0.935933147632312,
+  "top3_accuracy": 0.9805013927576601,
+  "class_count": 36,
+  "checkpoint": "models\\best_resnet18.pth"
+}
